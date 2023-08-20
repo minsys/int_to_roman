@@ -1,6 +1,6 @@
 use std::io;
 
-mod int_to_roman;
+mod roman_converter;
 
 fn main() {
 
